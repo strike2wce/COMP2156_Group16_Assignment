@@ -1,0 +1,3 @@
+language: minimal
+script:
+  - echo "No build required. Hello World!"
