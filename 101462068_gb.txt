@@ -1,1 +1,57 @@
-George Brown College is a post-secondary institution located at
+#### INFORMATION ABOUT GEORGE BROWN COLLEGE
+=================================================
+
+George Brown College is a post-secondary institution located in Toronto, Ontario, Canada. The campus features a total of 3 campuses, a Casa Loma Campus, St. James Campus and a Waterfront Campus (currently under construction). 
+
+George Brown (person that the school is named after) was a  Scottish-born Canadian politician, newspaper publisher (he was a founder of The Globe, a precursor to The Globe and Mail) and a Founding Father of Confederation. 
+
+Officially, George Brown College was opened in 1968, but the foundation for GBC was laid back in 1950s.
+
+As of now, George Brown College has the following types of programs to offer:
+-Apprenticeship
+-Distance
+-Certificate
+--Pre-program certificate
+--Post-graduate certificate
+-Degree
+-Diploma
+-Postgraduate
+
+Also, George Brown College has the following variety of academic centres and schools to offer:
+-Centre for Arts, Design & Information Technology
+--School of Computer Technology
+--School of Design
+--School of Fashion & Jewellery
+--School of Media & Performing Arts
+
+-Centre for Business
+--School of Accounting & Finance
+--School of Human Resources
+--School of Management
+--School of Marketing
+
+-Centre for Community Services and Early Childhood
+--School of Deaf & Deafblind Studies
+--School of Early Childhood
+--School of Social & Community Services
+
+-Centre for Construction and Engineering Technology
+--Angelo DelZotto School of Construction Management
+--School of Apprenticeship & Skilled Trades
+--School of Architectural Studies
+--School of Mechanical Engineering Technologies
+
+-Centre for Health Sciences
+--School of Dental Health
+--School of Health & Wellness
+--School of Health Services Management
+--Sally Horsfall Eaton School of Nursing
+
+-Centre for Hospitality and Culinary Arts
+--Chef School
+--School of Hospitality & Tourism Management
+
+-Centre for Preparatory and Liberal Studies
+--School of English as a Second Language
+--School of Liberal Arts & Sciences
+--School of Work & College Preparation
