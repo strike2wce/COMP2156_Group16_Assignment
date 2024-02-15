@@ -4,3 +4,7 @@ development and IT operations, enabling faster and more efficient delivery of ap
 By mastering DevOps practices, individuals gain the ability to automate and streamline the software development
 process, from coding and deployment to maintenance and updates, which significantly reduces the time-to-market for new
 features and fixes.
+
+DevOps engineers play a vital role in implementing continuous integration and continuous delivery (CI/CD) pipelines,
+ensuring that code changes are automatically built, tested, and prepared for release to production, which enhances
+software quality and reliability.
