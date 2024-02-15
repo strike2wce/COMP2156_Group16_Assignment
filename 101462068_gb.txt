@@ -1,5 +1,5 @@
-#### INFORMATION ABOUT GEORGE BROWN COLLEGE
-=================================================
+This file will contain information about George Brown College.
+==================================================================================================
 
 George Brown College is a post-secondary institution located in Toronto, Ontario, Canada. The campus features a total of 3 campuses, a Casa Loma Campus, St. James Campus and a Waterfront Campus (currently under construction). 
 
