@@ -5,3 +5,6 @@ changes.
 It incorporates automation and monitoring at all stages of software construction, from integration, testing, releasing
 to deployment, and infrastructure management, aiming for faster development cycles, increased deployment frequency,
 and more dependable releases in close alignment with business objectives.
+
+DevOps practices, such as continuous integration (CI) and continuous delivery (CD), enable teams to automate parts of
+the software development process, reducing manual work, minimizing errors, and increasing efficiency.
