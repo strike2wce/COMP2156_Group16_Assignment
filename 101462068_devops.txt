@@ -1,5 +1,5 @@
 This file will contain information about COMP 2156 DevOps course.
-==================================================================================================
+===================================================================================================
 
 Shortly called COMP 2156 (or fully "DEVOPS FOR SYSTEM ADMIN" according to STU-VIEW) is a course taught in T147/187 programs of GBC about procedures, protocols, and best practices a DevOps engineer should bring to the workplace environment in order to increase productivity of that workplace.
 
