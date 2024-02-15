@@ -1,0 +1,12 @@
+This file will contain details about important of learning DevOps engineer in software development cycle.
+==========================================================================================================
+
+The importance of learning Development Operations engineering is crucial in software development cycle, since it reflects a change in the traditional way of building, deploying and maintaining applications.
+
+Development Operations combines both development and integration (hence DevOps), and that embraces both collaboration and shared responsibility cultures.
+
+Such integration of DevOps may lead to significant benefits like efficiency, quality, and overall success in software projects.
+
+One of the main aspects of DevOps would probably be continuous deployment (abbreviated as CI/CD, e.g. Travis CI), which by design reduces the chances of errors during deployment, which minimizes the need for rollbacks and with that it decreases the time it takes to recover from failures.
+
+Automated testing and integration by design should help catching bugs early and get them fixed early as well, which in the end results in quality releases.
