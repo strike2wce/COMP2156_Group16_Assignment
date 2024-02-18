@@ -1,0 +1,11 @@
+Description of COMP2156
+
+COMP2156 is a course taught at George Brown College and is taught in the 4th semester of the Computer Systems Technician and Computer Systems Technology programs
+
+In the course, you will be introduced to the basic functions of DevOps and the concept of DevOps
+
+There are 10 quizzes, 10 labs, 2 assignments, and 2 exams
+
+The best 8 quizzes will be the ones that are counted
+
+8 of the 10 labs have to be completed
