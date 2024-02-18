@@ -1,0 +1,5 @@
+Learning DevOps
+
+DevOps is short for Development and Operations
+
+Learning DevOps is great for engineers in software development as it is a much quicker way to deliver software
