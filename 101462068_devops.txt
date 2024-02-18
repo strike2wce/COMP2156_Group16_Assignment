@@ -1,0 +1,28 @@
+This file will contain information about COMP 2156 DevOps course.
+===================================================================================================
+
+Shortly called COMP 2156 (or fully "DEVOPS FOR SYSTEM ADMIN" according to STU-VIEW) is a course taught in T147/187 programs of GBC about procedures, protocols, and best practices a DevOps engineer should bring to the workplace environment in order to increase productivity of that workplace.
+
+Good thing about the course is that it doesn't require a text-book (woo-hoo money saved).
+
+In terms of evaluation system, the passing grade for the course is 50%, and the assessment is done through plethora of tools, such as:
+-2 Exams (mid-term, final exams)
+-2 Assignments (Individual, Group assignments)
+-10 Labs (8 which have to be completed out of 10)
+-10 Quizzes (10 in total, the mark will be based on 8 best done quizzes out of 10)
+
+As to what the courses teaches you, it teaches you the following topics:
+-Intro BASH and CLI
+-More BASH, Git and GitHub
+-Version Control for Development Operations
+-Developer Operations Landscpae
+-Preparing and Hosting Automating Software Builds
+-Continuous Integration and or Continious Deployment
+-Preparing Data storage and cloud databses
+-Working with Cloud Infrastructure
+-Automating Development Operations and Quality assurance
+-Development Operations Assembly Lines
+-Commonly Used Development Technology Exposed
+-Transitioning into the role of Development Operations 
+
+Overall, a lot ot these topics verse you into the things that system admins should know about Development Operations.
